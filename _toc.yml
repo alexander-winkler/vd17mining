@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 chapters:
+"- file: vd17
+- file: xml
+- file: marc
+- file: "requirements
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
